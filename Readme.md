@@ -21,7 +21,7 @@ The following assumptions were made when completing the exercise. The lack of co
 * Divide by zero calculations are equal to infinite and the flow on affects of this are expected
 * The series length will remain small enough that the whole series can exist in memory (this restriction allows the first special number to be calculated efficiently)
 
-##F\#
+##F# ##
 Both the code and test cases are written in F#. The functional nature of the exercise made F# a more suitable choice and although I am more familiar with C# the level of F# required was well within my abilities
 
 ##xUnit Tests
